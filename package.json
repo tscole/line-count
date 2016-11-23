@@ -1,7 +1,7 @@
 {
-  "name": "line-count",
+  "name": "line-count-plus",
   "main": "./lib/line-count",
-  "version": "0.5.0",
+  "version": "0.0.1",
   "description": "Show line counts for files in projects",
   "activationCommands": {
     "atom-workspace": [
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mark-hahn/line-count"
+    "url": "https://github.com/tscole/line-count"
   },
   "license": "MIT",
   "engines": {
