@@ -59,6 +59,7 @@ suffixes = [
   "scss"
   "styl"
   "svg"
+  "ss"
   "swift"
   "ts"
   "vb"
